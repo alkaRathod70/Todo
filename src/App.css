@@ -1,0 +1,56 @@
+
+body{
+  background-color: rgb(76, 40, 40);
+  /* width: 100%; */
+  color: white;
+  text-align: center;
+  margin-top: 5%;
+}
+/* .setTodomain{ */
+  /* background-image:url("./assets/sunset.jpeg"); */
+  /* background-repeat: no-repeat; */
+  /* width: 100%; */
+/* } */
+.main_input{
+  margin: 1%;
+  padding-left: 1rem;
+  padding-right: 15%;
+  padding-bottom: 8px;
+  padding-top: 10px;
+  border-radius: 10%;
+  border: 2px solid red;
+}
+.Btn_1{
+  padding: 8px 10px 8px 10px;
+  border-radius: 15px;
+  background-color: rgb(155, 243, 67);
+}
+
+.cursor-ponter{
+  margin-right: 0.5rem;
+  /* padding: 5%; */
+}
+.addfun{
+   margin: 5px;
+   padding: 8px 10px 8px 10px;
+   border-radius: 15px;
+   background-color: rgb(252, 199, 207);
+}
+.delete{
+  padding: 8px 10px 8px 10px;
+  border-radius: 15px;
+  background-color: cyan;
+}
+.Todo_2{
+  background-color:lightblue;
+  padding-right: 10%;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  border-radius: 8%;
+  border: 3px yellow solid;
+  padding-left: 2rem;
+}
+/* .main{
+background-color:blue;
+padding: 1%;
+} */
